@@ -1,6 +1,13 @@
 # scripts-ai-app
 App React Native + Chat GPT
 
+<img src="./assets/image-software.png">
+
+# How to using
+1. Type name the city that you go to travel
+2. Choose how many days do you stay
+3. Click in Gerar roteiro
+
 # Expo App Setup
 
 ## Clonando o Repositório
